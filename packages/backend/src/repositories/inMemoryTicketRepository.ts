@@ -1,14 +1,9 @@
-import { readFileSync } from "node:fs";
-import { fileURLToPath } from "node:url";
-import path from "node:path";
 import { TicketSchema, type Ticket, type TicketQuery, type TicketPagedResult } from "@app/shared";
 import type { TicketRepository } from "./ticketRepository.js";
+import fixtureData from "../data/tickets.fixture.json" with { type: "json" };
 
-const FIXTURE_PATH = path.resolve(
-  path.dirname(fileURLToPath(import.meta.url)),
-  "../data/tickets.fixture.json",
-);
-
+// Imported (not read from disk at runtime) so esbuild inlines the fixture
+// straight into the Lambda bundle — no extra file has to ship in dist/.
 const PRIORITY_ORDER: Record<Ticket["priority"], number> = {
   low: 0,
   medium: 1,
@@ -20,8 +15,7 @@ let cachedFixture: Ticket[] | undefined;
 
 function loadFixtureTickets(): Ticket[] {
   if (!cachedFixture) {
-    const raw: unknown[] = JSON.parse(readFileSync(FIXTURE_PATH, "utf-8"));
-    cachedFixture = raw.map((item) => TicketSchema.parse(item));
+    cachedFixture = (fixtureData as unknown[]).map((item) => TicketSchema.parse(item));
   }
   return cachedFixture;
 }

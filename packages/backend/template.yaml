@@ -1,0 +1,35 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  Support Tickets API. Committed as an artifact of intent — not deployed as
+  part of this assessment. See the README for the local run path (`pnpm dev`).
+  handler.ts is genuinely Lambda-shaped; this template just points `sam
+  deploy` at the esbuild bundle it already produces via `pnpm --filter
+  @app/backend build`.
+
+Globals:
+  Function:
+    Runtime: nodejs20.x
+    Architectures:
+      - arm64
+    Timeout: 10
+    MemorySize: 256
+
+Resources:
+  TicketsFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: handler.handler
+      CodeUri: dist/
+      Description: Search/filter/sort/paginate support tickets.
+      Events:
+        GetTickets:
+          Type: HttpApi
+          Properties:
+            Path: /tickets
+            Method: GET
+
+Outputs:
+  ApiEndpoint:
+    Description: Invoke URL for GET /tickets
+    Value: !Sub "https://${ServerlessHttpApi}.execute-api.${AWS::Region}.amazonaws.com/tickets"
