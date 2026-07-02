@@ -1,0 +1,17 @@
+{
+  "name": "support-tickets",
+  "private": true,
+  "packageManager": "pnpm@10.27.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "concurrently -n backend,frontend -c blue,green \"pnpm --filter @app/backend dev\" \"pnpm --filter @app/frontend dev\"",
+    "test": "pnpm --filter @app/backend test",
+    "lint": "pnpm -r --if-present lint"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0",
+    "typescript": "^5.7.2"
+  }
+}

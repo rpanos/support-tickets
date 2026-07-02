@@ -1,0 +1,23 @@
+{
+  "name": "@app/backend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/dev-server.ts",
+    "test": "vitest run",
+    "build": "esbuild src/handler.ts --bundle --platform=node --target=node20 --format=esm --outfile=dist/handler.js"
+  },
+  "dependencies": {
+    "zod": "^3.24.1",
+    "@app/shared": "workspace:*"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "tsx": "^4.19.2",
+    "vitest": "^2.1.8",
+    "esbuild": "^0.24.0",
+    "@types/aws-lambda": "^8.10.146",
+    "@types/node": "^22.10.2"
+  }
+}
