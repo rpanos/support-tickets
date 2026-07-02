@@ -1,11 +1,14 @@
-import type { APIGatewayProxyEventV2, APIGatewayProxyResultV2 } from "aws-lambda";
+import type {
+  APIGatewayProxyEventV2,
+  APIGatewayProxyStructuredResultV2,
+} from "aws-lambda";
 import { TicketQuerySchema } from "@app/shared";
 import { InMemoryTicketRepository } from "./repositories/inMemoryTicketRepository.js";
 import type { TicketRepository } from "./repositories/ticketRepository.js";
 
 const JSON_HEADERS = { "content-type": "application/json" };
 
-function jsonResponse(statusCode: number, body: unknown): APIGatewayProxyResultV2 {
+function jsonResponse(statusCode: number, body: unknown): APIGatewayProxyStructuredResultV2 {
   return {
     statusCode,
     headers: JSON_HEADERS,
@@ -14,7 +17,9 @@ function jsonResponse(statusCode: number, body: unknown): APIGatewayProxyResultV
 }
 
 export function createHandler(repository: TicketRepository) {
-  return async function handler(event: APIGatewayProxyEventV2): Promise<APIGatewayProxyResultV2> {
+  return async function handler(
+    event: APIGatewayProxyEventV2,
+  ): Promise<APIGatewayProxyStructuredResultV2> {
     const parsed = TicketQuerySchema.safeParse(event.queryStringParameters ?? {});
     if (!parsed.success) {
       return jsonResponse(400, { error: parsed.error.message });
