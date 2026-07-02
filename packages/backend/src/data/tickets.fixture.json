@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "TKT-1000",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Oliver Schmidt",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-06-17T05:29:19.945Z",
+    "description": "Oliver Schmidt reported: \"Request to upgrade subscription plan\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1001",
+    "subject": "Unable to delete old account",
+    "requester": "Fatima Rahman",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-06-10T11:15:05.866Z",
+    "description": "Fatima Rahman reported: \"Unable to delete old account\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1002",
+    "subject": "Slow page load on reports tab",
+    "requester": "Ingrid Larsen",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-02T04:00:17.772Z",
+    "description": "Ingrid Larsen reported: \"Slow page load on reports tab\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1003",
+    "subject": "Notification emails going to spam",
+    "requester": "Alice Chen",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-05-10T15:40:01.473Z",
+    "description": "Alice Chen reported: \"Notification emails going to spam\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1004",
+    "subject": "Login page returns 500 error",
+    "requester": "Fatima Rahman",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-16T05:33:43.149Z",
+    "description": "Fatima Rahman reported: \"Login page returns 500 error\". Steps to reproduce are attached in the linked doc. Priority: high."
+  },
+  {
+    "id": "TKT-1005",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Sofia Kim",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-06-04T05:02:58.289Z",
+    "description": "Sofia Kim reported: \"Custom domain SSL certificate expired\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1006",
+    "subject": "Login page returns 500 error",
+    "requester": "Alice Chen",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-10T21:30:34.561Z",
+    "description": "Alice Chen reported: \"Login page returns 500 error\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1007",
+    "subject": "Slow page load on reports tab",
+    "requester": "James O'Malley",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-18T05:48:53.678Z",
+    "description": "James O'Malley reported: \"Slow page load on reports tab\". Happens consistently on the latest browser version. Priority: high."
+  },
+  {
+    "id": "TKT-1008",
+    "subject": "Need help configuring SSO",
+    "requester": "Liam Novak",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-02T16:37:33.607Z",
+    "description": "Liam Novak reported: \"Need help configuring SSO\". Started after last week's release. Priority: high."
+  },
+  {
+    "id": "TKT-1009",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Nadia Kowalski",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-04-09T03:43:50.396Z",
+    "description": "Nadia Kowalski reported: \"Invoice shows incorrect total\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1010",
+    "subject": "Unable to reset password",
+    "requester": "Priya Natarajan",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-08T21:20:07.203Z",
+    "description": "Priya Natarajan reported: \"Unable to reset password\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1011",
+    "subject": "Password reset email never arrives",
+    "requester": "Marcus Reed",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-04-30T08:51:44.794Z",
+    "description": "Marcus Reed reported: \"Password reset email never arrives\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1012",
+    "subject": "Team member cannot be invited",
+    "requester": "Ryan Whitfield",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-05-13T07:26:18.355Z",
+    "description": "Ryan Whitfield reported: \"Team member cannot be invited\". No workaround found yet. Priority: urgent."
+  },
+  {
+    "id": "TKT-1013",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-03T21:29:53.009Z",
+    "description": "Elena Petrova reported: \"API rate limit reached unexpectedly\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1014",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Liam Novak",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-04T12:01:19.494Z",
+    "description": "Liam Novak reported: \"Request to upgrade subscription plan\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1015",
+    "subject": "Typo in terms of service page",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-01T06:10:06.343Z",
+    "description": "Elena Petrova reported: \"Typo in terms of service page\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1016",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "Tariq Hassan",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-19T23:40:23.345Z",
+    "description": "Tariq Hassan reported: \"Bulk import fails for CSV over 5MB\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1017",
+    "subject": "App crashes when uploading large files",
+    "requester": "Ethan Brooks",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-06-12T21:00:48.580Z",
+    "description": "Ethan Brooks reported: \"App crashes when uploading large files\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1018",
+    "subject": "Search results missing recent tickets",
+    "requester": "Sofia Kim",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-07T08:39:20.069Z",
+    "description": "Sofia Kim reported: \"Search results missing recent tickets\". No workaround found yet. Priority: low."
+  },
+  {
+    "id": "TKT-1019",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Grace Osei",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-04-16T05:29:24.599Z",
+    "description": "Grace Osei reported: \"Refund request for duplicate charge\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1020",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Alice Chen",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-12T05:27:05.832Z",
+    "description": "Alice Chen reported: \"Mobile app freezes on startup\". Happens consistently on the latest browser version. Priority: high."
+  },
+  {
+    "id": "TKT-1021",
+    "subject": "Notification emails going to spam",
+    "requester": "Oliver Schmidt",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-30T11:05:42.111Z",
+    "description": "Oliver Schmidt reported: \"Notification emails going to spam\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1022",
+    "subject": "Need help configuring SSO",
+    "requester": "Liam Novak",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-13T01:57:10.003Z",
+    "description": "Liam Novak reported: \"Need help configuring SSO\". No workaround found yet. Priority: low."
+  },
+  {
+    "id": "TKT-1023",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Mei Tanaka",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-13T11:24:15.592Z",
+    "description": "Mei Tanaka reported: \"Webhook events arriving out of order\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1024",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Noah Bergström",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-28T02:17:51.189Z",
+    "description": "Noah Bergström reported: \"Request to upgrade subscription plan\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1025",
+    "subject": "Slow page load on reports tab",
+    "requester": "Hana Suzuki",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-14T18:56:41.330Z",
+    "description": "Hana Suzuki reported: \"Slow page load on reports tab\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1026",
+    "subject": "Slow page load on reports tab",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-03T17:24:29.529Z",
+    "description": "James O'Malley reported: \"Slow page load on reports tab\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1027",
+    "subject": "Integration with Slack not syncing",
+    "requester": "Sofia Kim",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-04T17:17:24.386Z",
+    "description": "Sofia Kim reported: \"Integration with Slack not syncing\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1028",
+    "subject": "Cannot connect to API from mobile app",
+    "requester": "Mei Tanaka",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-04-29T21:03:33.219Z",
+    "description": "Mei Tanaka reported: \"Cannot connect to API from mobile app\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1029",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Chloe Dubois",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-16T15:37:42.310Z",
+    "description": "Chloe Dubois reported: \"Request to upgrade subscription plan\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1030",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Hana Suzuki",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-21T06:41:13.308Z",
+    "description": "Hana Suzuki reported: \"Request to upgrade subscription plan\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1031",
+    "subject": "Typo in terms of service page",
+    "requester": "Noah Bergström",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-04-16T14:36:19.416Z",
+    "description": "Noah Bergström reported: \"Typo in terms of service page\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1032",
+    "subject": "Login page returns 500 error",
+    "requester": "Ingrid Larsen",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-18T08:57:17.546Z",
+    "description": "Ingrid Larsen reported: \"Login page returns 500 error\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1033",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Tariq Hassan",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-04-18T15:13:07.014Z",
+    "description": "Tariq Hassan reported: \"Webhook events arriving out of order\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1034",
+    "subject": "Broken link in welcome email",
+    "requester": "Mei Tanaka",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-02T16:09:03.431Z",
+    "description": "Mei Tanaka reported: \"Broken link in welcome email\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1035",
+    "subject": "Unable to delete old account",
+    "requester": "Nadia Kowalski",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-06-19T07:38:33.088Z",
+    "description": "Nadia Kowalski reported: \"Unable to delete old account\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1036",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Alice Chen",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-07T22:15:08.700Z",
+    "description": "Alice Chen reported: \"Invoice shows incorrect total\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1037",
+    "subject": "Password reset email never arrives",
+    "requester": "Carlos Mendez",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-20T10:32:50.856Z",
+    "description": "Carlos Mendez reported: \"Password reset email never arrives\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1038",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Liam Novak",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-04-22T12:58:21.259Z",
+    "description": "Liam Novak reported: \"Request to upgrade subscription plan\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1039",
+    "subject": "Search results missing recent tickets",
+    "requester": "Sofia Kim",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-21T17:59:11.767Z",
+    "description": "Sofia Kim reported: \"Search results missing recent tickets\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1040",
+    "subject": "Slow page load on reports tab",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-18T13:09:24.791Z",
+    "description": "Elena Petrova reported: \"Slow page load on reports tab\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1041",
+    "subject": "Typo in terms of service page",
+    "requester": "Ryan Whitfield",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-20T19:51:50.873Z",
+    "description": "Ryan Whitfield reported: \"Typo in terms of service page\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1042",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Diego Alvarez",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-25T05:25:32.076Z",
+    "description": "Diego Alvarez reported: \"Dark mode toggle not saving preference\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1043",
+    "subject": "Team member cannot be invited",
+    "requester": "Priya Natarajan",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-12T06:54:50.171Z",
+    "description": "Priya Natarajan reported: \"Team member cannot be invited\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1044",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Mei Tanaka",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-05-04T10:53:37.525Z",
+    "description": "Mei Tanaka reported: \"Invoice shows incorrect total\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1045",
+    "subject": "Team member cannot be invited",
+    "requester": "Ryan Whitfield",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-06-25T22:25:14.967Z",
+    "description": "Ryan Whitfield reported: \"Team member cannot be invited\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1046",
+    "subject": "Billing charged twice this month",
+    "requester": "Marcus Reed",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-13T11:19:26.069Z",
+    "description": "Marcus Reed reported: \"Billing charged twice this month\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1047",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "Alice Chen",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-18T23:35:15.988Z",
+    "description": "Alice Chen reported: \"Two-factor authentication not sending codes\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1048",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "James O'Malley",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-05-17T07:25:43.210Z",
+    "description": "James O'Malley reported: \"Dark mode toggle not saving preference\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1049",
+    "subject": "Integration with Slack not syncing",
+    "requester": "Nadia Kowalski",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-06-04T21:13:08.047Z",
+    "description": "Nadia Kowalski reported: \"Integration with Slack not syncing\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1050",
+    "subject": "Typo in terms of service page",
+    "requester": "Ingrid Larsen",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-14T19:41:46.441Z",
+    "description": "Ingrid Larsen reported: \"Typo in terms of service page\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1051",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Ethan Brooks",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-03T20:22:46.917Z",
+    "description": "Ethan Brooks reported: \"Mobile app freezes on startup\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1052",
+    "subject": "Timezone displayed incorrectly in reports",
+    "requester": "Noah Bergström",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-26T18:28:39.074Z",
+    "description": "Noah Bergström reported: \"Timezone displayed incorrectly in reports\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1053",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Ryan Whitfield",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-01T17:24:18.745Z",
+    "description": "Ryan Whitfield reported: \"Custom domain SSL certificate expired\". Happens consistently on the latest browser version. Priority: high."
+  },
+  {
+    "id": "TKT-1054",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Liam Novak",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-05-07T04:37:59.435Z",
+    "description": "Liam Novak reported: \"Dark mode toggle not saving preference\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1055",
+    "subject": "Password reset email never arrives",
+    "requester": "Ingrid Larsen",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-04-12T17:33:36.088Z",
+    "description": "Ingrid Larsen reported: \"Password reset email never arrives\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1056",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Carlos Mendez",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-03T04:32:21.338Z",
+    "description": "Carlos Mendez reported: \"Invoice shows incorrect total\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1057",
+    "subject": "Unable to delete old account",
+    "requester": "Carlos Mendez",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-29T01:31:12.241Z",
+    "description": "Carlos Mendez reported: \"Unable to delete old account\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1058",
+    "subject": "Feature request: dark mode for dashboard",
+    "requester": "Priya Natarajan",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-04-18T13:19:07.037Z",
+    "description": "Priya Natarajan reported: \"Feature request: dark mode for dashboard\". Started after last week's release. Priority: high."
+  },
+  {
+    "id": "TKT-1059",
+    "subject": "Unable to reset password",
+    "requester": "Priya Natarajan",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-06-08T16:35:39.321Z",
+    "description": "Priya Natarajan reported: \"Unable to reset password\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1060",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "Oliver Schmidt",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-06-23T23:33:14.505Z",
+    "description": "Oliver Schmidt reported: \"Bulk import fails for CSV over 5MB\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1061",
+    "subject": "Notification emails going to spam",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-29T02:54:20.920Z",
+    "description": "James O'Malley reported: \"Notification emails going to spam\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1062",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-01T22:39:00.543Z",
+    "description": "Aisha Bello reported: \"API rate limit reached unexpectedly\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1063",
+    "subject": "Login page returns 500 error",
+    "requester": "Priya Natarajan",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-11T08:21:16.985Z",
+    "description": "Priya Natarajan reported: \"Login page returns 500 error\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1064",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Ethan Brooks",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-05T12:56:20.810Z",
+    "description": "Ethan Brooks reported: \"API rate limit reached unexpectedly\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1065",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Ingrid Larsen",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-04-23T06:26:26.604Z",
+    "description": "Ingrid Larsen reported: \"Refund request for duplicate charge\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1066",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Diego Alvarez",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-04-15T15:05:11.165Z",
+    "description": "Diego Alvarez reported: \"Invoice shows incorrect total\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1067",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-14T06:30:39.109Z",
+    "description": "Aisha Bello reported: \"Dark mode toggle not saving preference\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1068",
+    "subject": "Refund request for duplicate charge",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-04T13:43:51.955Z",
+    "description": "James O'Malley reported: \"Refund request for duplicate charge\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1069",
+    "subject": "Cannot connect to API from mobile app",
+    "requester": "Ryan Whitfield",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-04-26T21:38:21.123Z",
+    "description": "Ryan Whitfield reported: \"Cannot connect to API from mobile app\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1070",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Nadia Kowalski",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-03T14:20:23.252Z",
+    "description": "Nadia Kowalski reported: \"API rate limit reached unexpectedly\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1071",
+    "subject": "Billing charged twice this month",
+    "requester": "Tariq Hassan",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-06-16T12:34:08.654Z",
+    "description": "Tariq Hassan reported: \"Billing charged twice this month\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1072",
+    "subject": "App crashes when uploading large files",
+    "requester": "Aisha Bello",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-06-20T16:34:34.070Z",
+    "description": "Aisha Bello reported: \"App crashes when uploading large files\". No workaround found yet. Priority: low."
+  },
+  {
+    "id": "TKT-1073",
+    "subject": "Notification emails going to spam",
+    "requester": "James O'Malley",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-20T08:29:30.495Z",
+    "description": "James O'Malley reported: \"Notification emails going to spam\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1074",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Diego Alvarez",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-14T12:33:21.968Z",
+    "description": "Diego Alvarez reported: \"Webhook events arriving out of order\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1075",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Tariq Hassan",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-05-19T00:30:43.994Z",
+    "description": "Tariq Hassan reported: \"Request to upgrade subscription plan\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1076",
+    "subject": "Broken link in welcome email",
+    "requester": "Ben Okafor",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-05-18T14:31:11.892Z",
+    "description": "Ben Okafor reported: \"Broken link in welcome email\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1077",
+    "subject": "Login page returns 500 error",
+    "requester": "Zara Ahmed",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-05-04T17:58:50.411Z",
+    "description": "Zara Ahmed reported: \"Login page returns 500 error\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1078",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Marcus Reed",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-17T20:12:00.923Z",
+    "description": "Marcus Reed reported: \"API rate limit reached unexpectedly\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1079",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Carlos Mendez",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-07-02T15:04:58.342Z",
+    "description": "Carlos Mendez reported: \"API rate limit reached unexpectedly\". Started after last week's release. Priority: high."
+  },
+  {
+    "id": "TKT-1080",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "Sofia Kim",
+    "status": "resolved",
+    "priority": "urgent",
+    "createdAt": "2026-06-07T20:24:50.266Z",
+    "description": "Sofia Kim reported: \"Two-factor authentication not sending codes\". Only reproducible on mobile Safari so far. Priority: urgent."
+  },
+  {
+    "id": "TKT-1081",
+    "subject": "Request to upgrade subscription plan",
+    "requester": "Hana Suzuki",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-19T10:03:31.524Z",
+    "description": "Hana Suzuki reported: \"Request to upgrade subscription plan\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1082",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Carlos Mendez",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-10T09:43:58.288Z",
+    "description": "Carlos Mendez reported: \"Mobile app freezes on startup\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1083",
+    "subject": "Notification emails going to spam",
+    "requester": "Chloe Dubois",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-06-27T08:39:15.284Z",
+    "description": "Chloe Dubois reported: \"Notification emails going to spam\". Only reproducible on mobile Safari so far. Priority: urgent."
+  },
+  {
+    "id": "TKT-1084",
+    "subject": "Integration with Slack not syncing",
+    "requester": "Aisha Bello",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-04-17T06:55:19.024Z",
+    "description": "Aisha Bello reported: \"Integration with Slack not syncing\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1085",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Ethan Brooks",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-04-07T19:02:35.710Z",
+    "description": "Ethan Brooks reported: \"Webhook events arriving out of order\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1086",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Diego Alvarez",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-05-19T18:11:33.088Z",
+    "description": "Diego Alvarez reported: \"Invoice shows incorrect total\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1087",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Zara Ahmed",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-23T02:58:12.544Z",
+    "description": "Zara Ahmed reported: \"Refund request for duplicate charge\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1088",
+    "subject": "Billing charged twice this month",
+    "requester": "Zara Ahmed",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-28T17:54:55.173Z",
+    "description": "Zara Ahmed reported: \"Billing charged twice this month\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1089",
+    "subject": "Billing charged twice this month",
+    "requester": "Diego Alvarez",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-06T18:33:53.839Z",
+    "description": "Diego Alvarez reported: \"Billing charged twice this month\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1090",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Elena Petrova",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-05-02T09:21:24.103Z",
+    "description": "Elena Petrova reported: \"Refund request for duplicate charge\". No workaround found yet. Priority: low."
+  },
+  {
+    "id": "TKT-1091",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Fatima Rahman",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-05-29T15:24:04.801Z",
+    "description": "Fatima Rahman reported: \"API rate limit reached unexpectedly\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1092",
+    "subject": "Slow page load on reports tab",
+    "requester": "Oliver Schmidt",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-04-04T08:03:19.272Z",
+    "description": "Oliver Schmidt reported: \"Slow page load on reports tab\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1093",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Mei Tanaka",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-24T22:08:01.879Z",
+    "description": "Mei Tanaka reported: \"Invoice shows incorrect total\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1094",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "Chloe Dubois",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-04-06T01:47:03.072Z",
+    "description": "Chloe Dubois reported: \"Two-factor authentication not sending codes\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1095",
+    "subject": "Password reset email never arrives",
+    "requester": "Zara Ahmed",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-07T05:46:18.310Z",
+    "description": "Zara Ahmed reported: \"Password reset email never arrives\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1096",
+    "subject": "Unable to reset password",
+    "requester": "Tariq Hassan",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-12T02:22:28.199Z",
+    "description": "Tariq Hassan reported: \"Unable to reset password\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1097",
+    "subject": "Data export stuck at 0%",
+    "requester": "Alice Chen",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-06T21:34:36.184Z",
+    "description": "Alice Chen reported: \"Data export stuck at 0%\". Steps to reproduce are attached in the linked doc. Priority: high."
+  },
+  {
+    "id": "TKT-1098",
+    "subject": "Team member cannot be invited",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-27T03:03:51.210Z",
+    "description": "Elena Petrova reported: \"Team member cannot be invited\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1099",
+    "subject": "Unable to delete old account",
+    "requester": "Marcus Reed",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-11T18:12:17.109Z",
+    "description": "Marcus Reed reported: \"Unable to delete old account\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1100",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "Mei Tanaka",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-06-20T19:07:27.589Z",
+    "description": "Mei Tanaka reported: \"Dashboard widget shows stale data\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1101",
+    "subject": "Need help configuring SSO",
+    "requester": "Ingrid Larsen",
+    "status": "closed",
+    "priority": "urgent",
+    "createdAt": "2026-05-25T04:04:32.327Z",
+    "description": "Ingrid Larsen reported: \"Need help configuring SSO\". Only reproducible on mobile Safari so far. Priority: urgent."
+  },
+  {
+    "id": "TKT-1102",
+    "subject": "Search results missing recent tickets",
+    "requester": "Grace Osei",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-05-01T13:49:53.481Z",
+    "description": "Grace Osei reported: \"Search results missing recent tickets\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1103",
+    "subject": "Data export stuck at 0%",
+    "requester": "Hana Suzuki",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-06-19T09:27:51.826Z",
+    "description": "Hana Suzuki reported: \"Data export stuck at 0%\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1104",
+    "subject": "Data export stuck at 0%",
+    "requester": "Ethan Brooks",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-05-05T07:12:43.482Z",
+    "description": "Ethan Brooks reported: \"Data export stuck at 0%\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1105",
+    "subject": "Billing charged twice this month",
+    "requester": "Ethan Brooks",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-04-08T20:19:28.352Z",
+    "description": "Ethan Brooks reported: \"Billing charged twice this month\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1106",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-08T23:25:47.199Z",
+    "description": "Aisha Bello reported: \"Two-factor authentication not sending codes\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1107",
+    "subject": "Data export stuck at 0%",
+    "requester": "Liam Novak",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-17T02:24:35.249Z",
+    "description": "Liam Novak reported: \"Data export stuck at 0%\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1108",
+    "subject": "Search results missing recent tickets",
+    "requester": "Hana Suzuki",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-11T02:28:42.121Z",
+    "description": "Hana Suzuki reported: \"Search results missing recent tickets\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1109",
+    "subject": "Unable to delete old account",
+    "requester": "Carlos Mendez",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-04T12:50:46.392Z",
+    "description": "Carlos Mendez reported: \"Unable to delete old account\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1110",
+    "subject": "App crashes when uploading large files",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-29T13:40:37.393Z",
+    "description": "Elena Petrova reported: \"App crashes when uploading large files\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1111",
+    "subject": "Feature request: dark mode for dashboard",
+    "requester": "Alice Chen",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-06-29T02:12:16.036Z",
+    "description": "Alice Chen reported: \"Feature request: dark mode for dashboard\". Screenshot attached showing the error state. Priority: low."
+  },
+  {
+    "id": "TKT-1112",
+    "subject": "Export to CSV is missing columns",
+    "requester": "Lucas Ferreira",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-06-07T20:55:15.898Z",
+    "description": "Lucas Ferreira reported: \"Export to CSV is missing columns\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1113",
+    "subject": "Broken link in welcome email",
+    "requester": "Grace Osei",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-04-20T12:41:57.371Z",
+    "description": "Grace Osei reported: \"Broken link in welcome email\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1114",
+    "subject": "Broken link in welcome email",
+    "requester": "Sofia Kim",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-04-08T04:55:33.820Z",
+    "description": "Sofia Kim reported: \"Broken link in welcome email\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1115",
+    "subject": "Search results missing recent tickets",
+    "requester": "Sofia Kim",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-09T07:58:40.688Z",
+    "description": "Sofia Kim reported: \"Search results missing recent tickets\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1116",
+    "subject": "Export to CSV is missing columns",
+    "requester": "Noah Bergström",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-06-17T07:36:29.082Z",
+    "description": "Noah Bergström reported: \"Export to CSV is missing columns\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1117",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Ben Okafor",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-10T03:11:38.176Z",
+    "description": "Ben Okafor reported: \"Invoice shows incorrect total\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1118",
+    "subject": "Integration with Slack not syncing",
+    "requester": "Ryan Whitfield",
+    "status": "pending",
+    "priority": "urgent",
+    "createdAt": "2026-04-14T09:02:12.213Z",
+    "description": "Ryan Whitfield reported: \"Integration with Slack not syncing\". Steps to reproduce are attached in the linked doc. Priority: urgent."
+  },
+  {
+    "id": "TKT-1119",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "James O'Malley",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-15T16:55:06.014Z",
+    "description": "James O'Malley reported: \"Bulk import fails for CSV over 5MB\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1120",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "Grace Osei",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-15T12:27:54.928Z",
+    "description": "Grace Osei reported: \"Two-factor authentication not sending codes\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1121",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "James O'Malley",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-04-28T08:47:07.616Z",
+    "description": "James O'Malley reported: \"API rate limit reached unexpectedly\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1122",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-29T03:41:05.787Z",
+    "description": "Elena Petrova reported: \"Webhook events arriving out of order\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1123",
+    "subject": "Feature request: dark mode for dashboard",
+    "requester": "Marcus Reed",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-16T12:46:04.317Z",
+    "description": "Marcus Reed reported: \"Feature request: dark mode for dashboard\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1124",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Noah Bergström",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-01T14:15:36.449Z",
+    "description": "Noah Bergström reported: \"Webhook events arriving out of order\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1125",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Liam Novak",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-17T23:07:40.867Z",
+    "description": "Liam Novak reported: \"API rate limit reached unexpectedly\". Screenshot attached showing the error state. Priority: low."
+  },
+  {
+    "id": "TKT-1126",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Priya Natarajan",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-12T04:51:36.936Z",
+    "description": "Priya Natarajan reported: \"Dark mode toggle not saving preference\". Steps to reproduce are attached in the linked doc. Priority: high."
+  },
+  {
+    "id": "TKT-1127",
+    "subject": "Timezone displayed incorrectly in reports",
+    "requester": "Oliver Schmidt",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-06-13T04:50:42.811Z",
+    "description": "Oliver Schmidt reported: \"Timezone displayed incorrectly in reports\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1128",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "Carlos Mendez",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-28T05:43:10.961Z",
+    "description": "Carlos Mendez reported: \"Dashboard widget shows stale data\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1129",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-04-25T01:18:22.537Z",
+    "description": "Aisha Bello reported: \"Dashboard widget shows stale data\". Happens consistently on the latest browser version. Priority: urgent."
+  },
+  {
+    "id": "TKT-1130",
+    "subject": "App crashes when uploading large files",
+    "requester": "Diego Alvarez",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-06T03:14:03.398Z",
+    "description": "Diego Alvarez reported: \"App crashes when uploading large files\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1131",
+    "subject": "Billing charged twice this month",
+    "requester": "Hana Suzuki",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-04-19T21:53:12.483Z",
+    "description": "Hana Suzuki reported: \"Billing charged twice this month\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1132",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Alice Chen",
+    "status": "closed",
+    "priority": "urgent",
+    "createdAt": "2026-06-12T13:47:51.901Z",
+    "description": "Alice Chen reported: \"Custom domain SSL certificate expired\". Happens consistently on the latest browser version. Priority: urgent."
+  },
+  {
+    "id": "TKT-1133",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Alice Chen",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-24T18:58:43.982Z",
+    "description": "Alice Chen reported: \"Dark mode toggle not saving preference\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1134",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Lucas Ferreira",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-06-12T14:10:47.025Z",
+    "description": "Lucas Ferreira reported: \"Refund request for duplicate charge\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1135",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Noah Bergström",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-04-04T16:38:23.233Z",
+    "description": "Noah Bergström reported: \"Invoice shows incorrect total\". Only reproducible on mobile Safari so far. Priority: urgent."
+  },
+  {
+    "id": "TKT-1136",
+    "subject": "Login page returns 500 error",
+    "requester": "James O'Malley",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-04-10T14:33:43.181Z",
+    "description": "James O'Malley reported: \"Login page returns 500 error\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1137",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Nadia Kowalski",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-05-31T12:50:03.458Z",
+    "description": "Nadia Kowalski reported: \"Dark mode toggle not saving preference\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1138",
+    "subject": "Search results missing recent tickets",
+    "requester": "Marcus Reed",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-04T17:42:21.609Z",
+    "description": "Marcus Reed reported: \"Search results missing recent tickets\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1139",
+    "subject": "Timezone displayed incorrectly in reports",
+    "requester": "Marcus Reed",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-26T09:20:57.293Z",
+    "description": "Marcus Reed reported: \"Timezone displayed incorrectly in reports\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1140",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-06-15T01:01:06.282Z",
+    "description": "James O'Malley reported: \"Dashboard widget shows stale data\". Happens consistently on the latest browser version. Priority: urgent."
+  },
+  {
+    "id": "TKT-1141",
+    "subject": "Unable to delete old account",
+    "requester": "Oliver Schmidt",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-27T11:37:00.930Z",
+    "description": "Oliver Schmidt reported: \"Unable to delete old account\". Customer is on the enterprise plan and needs a fast turnaround. Priority: medium."
+  },
+  {
+    "id": "TKT-1142",
+    "subject": "Password reset email never arrives",
+    "requester": "Elena Petrova",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-05T11:59:37.890Z",
+    "description": "Elena Petrova reported: \"Password reset email never arrives\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1143",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Ben Okafor",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-06-19T17:52:30.139Z",
+    "description": "Ben Okafor reported: \"Custom domain SSL certificate expired\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1144",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "Zara Ahmed",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-04-10T23:25:00.427Z",
+    "description": "Zara Ahmed reported: \"Dashboard widget shows stale data\". Screenshot attached showing the error state. Priority: urgent."
+  },
+  {
+    "id": "TKT-1145",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "Nadia Kowalski",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-16T01:30:19.652Z",
+    "description": "Nadia Kowalski reported: \"Bulk import fails for CSV over 5MB\". Customer is on the enterprise plan and needs a fast turnaround. Priority: medium."
+  },
+  {
+    "id": "TKT-1146",
+    "subject": "Refund request for duplicate charge",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-05-31T23:35:21.036Z",
+    "description": "Aisha Bello reported: \"Refund request for duplicate charge\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1147",
+    "subject": "Dark mode toggle not saving preference",
+    "requester": "Marcus Reed",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-06T06:06:07.225Z",
+    "description": "Marcus Reed reported: \"Dark mode toggle not saving preference\". Customer is on the enterprise plan and needs a fast turnaround. Priority: medium."
+  },
+  {
+    "id": "TKT-1148",
+    "subject": "Need help configuring SSO",
+    "requester": "Noah Bergström",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-30T03:14:59.912Z",
+    "description": "Noah Bergström reported: \"Need help configuring SSO\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1149",
+    "subject": "Login page returns 500 error",
+    "requester": "Fatima Rahman",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-04-27T23:05:10.753Z",
+    "description": "Fatima Rahman reported: \"Login page returns 500 error\". Only reproducible on mobile Safari so far. Priority: low."
+  },
+  {
+    "id": "TKT-1150",
+    "subject": "Broken link in welcome email",
+    "requester": "Carlos Mendez",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-05T21:24:11.586Z",
+    "description": "Carlos Mendez reported: \"Broken link in welcome email\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1151",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Ben Okafor",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-30T21:14:09.994Z",
+    "description": "Ben Okafor reported: \"Mobile app freezes on startup\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1152",
+    "subject": "Need help configuring SSO",
+    "requester": "Ethan Brooks",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-06T16:17:00.432Z",
+    "description": "Ethan Brooks reported: \"Need help configuring SSO\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1153",
+    "subject": "App crashes when uploading large files",
+    "requester": "Grace Osei",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-13T12:22:41.490Z",
+    "description": "Grace Osei reported: \"App crashes when uploading large files\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1154",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "Ben Okafor",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-05-28T23:43:54.645Z",
+    "description": "Ben Okafor reported: \"Bulk import fails for CSV over 5MB\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1155",
+    "subject": "Login page returns 500 error",
+    "requester": "Fatima Rahman",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-06-21T06:55:34.034Z",
+    "description": "Fatima Rahman reported: \"Login page returns 500 error\". Started after last week's release. Priority: low."
+  },
+  {
+    "id": "TKT-1156",
+    "subject": "Billing charged twice this month",
+    "requester": "Sofia Kim",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-04-06T18:06:20.862Z",
+    "description": "Sofia Kim reported: \"Billing charged twice this month\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1157",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Lucas Ferreira",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-04-19T17:52:09.922Z",
+    "description": "Lucas Ferreira reported: \"Custom domain SSL certificate expired\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1158",
+    "subject": "Login page returns 500 error",
+    "requester": "Fatima Rahman",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-13T18:39:47.941Z",
+    "description": "Fatima Rahman reported: \"Login page returns 500 error\". Screenshot attached showing the error state. Priority: high."
+  },
+  {
+    "id": "TKT-1159",
+    "subject": "Unable to delete old account",
+    "requester": "Fatima Rahman",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-04-13T15:05:11.448Z",
+    "description": "Fatima Rahman reported: \"Unable to delete old account\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1160",
+    "subject": "Unable to delete old account",
+    "requester": "Oliver Schmidt",
+    "status": "pending",
+    "priority": "urgent",
+    "createdAt": "2026-05-27T07:10:59.376Z",
+    "description": "Oliver Schmidt reported: \"Unable to delete old account\". No workaround found yet. Priority: urgent."
+  },
+  {
+    "id": "TKT-1161",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Chloe Dubois",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-04-18T19:15:10.523Z",
+    "description": "Chloe Dubois reported: \"Invoice shows incorrect total\". Happens consistently on the latest browser version. Priority: high."
+  },
+  {
+    "id": "TKT-1162",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Priya Natarajan",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-04-16T00:39:29.515Z",
+    "description": "Priya Natarajan reported: \"Custom domain SSL certificate expired\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1163",
+    "subject": "Typo in terms of service page",
+    "requester": "Noah Bergström",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-06T23:38:55.359Z",
+    "description": "Noah Bergström reported: \"Typo in terms of service page\". No workaround found yet. Priority: low."
+  },
+  {
+    "id": "TKT-1164",
+    "subject": "Data export stuck at 0%",
+    "requester": "Mei Tanaka",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-14T23:21:36.448Z",
+    "description": "Mei Tanaka reported: \"Data export stuck at 0%\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  },
+  {
+    "id": "TKT-1165",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Liam Novak",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-06-05T13:15:23.695Z",
+    "description": "Liam Novak reported: \"Webhook events arriving out of order\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1166",
+    "subject": "Timezone displayed incorrectly in reports",
+    "requester": "James O'Malley",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-05-29T04:11:08.443Z",
+    "description": "James O'Malley reported: \"Timezone displayed incorrectly in reports\". Second time this has been reported this month. Priority: medium."
+  },
+  {
+    "id": "TKT-1167",
+    "subject": "API rate limit reached unexpectedly",
+    "requester": "Sofia Kim",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-01T03:20:58.318Z",
+    "description": "Sofia Kim reported: \"API rate limit reached unexpectedly\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1168",
+    "subject": "Notification emails going to spam",
+    "requester": "Carlos Mendez",
+    "status": "resolved",
+    "priority": "low",
+    "createdAt": "2026-05-02T10:04:22.026Z",
+    "description": "Carlos Mendez reported: \"Notification emails going to spam\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1169",
+    "subject": "Export to CSV is missing columns",
+    "requester": "Oliver Schmidt",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-15T08:08:30.384Z",
+    "description": "Oliver Schmidt reported: \"Export to CSV is missing columns\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1170",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Ryan Whitfield",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-05-19T01:21:55.766Z",
+    "description": "Ryan Whitfield reported: \"Mobile app freezes on startup\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1171",
+    "subject": "Notification emails going to spam",
+    "requester": "Tariq Hassan",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-13T12:51:24.463Z",
+    "description": "Tariq Hassan reported: \"Notification emails going to spam\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1172",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Chloe Dubois",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-19T15:18:21.383Z",
+    "description": "Chloe Dubois reported: \"Webhook events arriving out of order\". Second time this has been reported this month. Priority: low."
+  },
+  {
+    "id": "TKT-1173",
+    "subject": "Invoice shows incorrect total",
+    "requester": "Ryan Whitfield",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-04-21T08:53:21.932Z",
+    "description": "Ryan Whitfield reported: \"Invoice shows incorrect total\". Screenshot attached showing the error state. Priority: low."
+  },
+  {
+    "id": "TKT-1174",
+    "subject": "Need help configuring SSO",
+    "requester": "Diego Alvarez",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-04-27T23:03:51.994Z",
+    "description": "Diego Alvarez reported: \"Need help configuring SSO\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1175",
+    "subject": "Custom domain SSL certificate expired",
+    "requester": "Aisha Bello",
+    "status": "closed",
+    "priority": "high",
+    "createdAt": "2026-04-17T01:33:27.605Z",
+    "description": "Aisha Bello reported: \"Custom domain SSL certificate expired\". Customer is on the enterprise plan and needs a fast turnaround. Priority: high."
+  },
+  {
+    "id": "TKT-1176",
+    "subject": "Login page returns 500 error",
+    "requester": "Sofia Kim",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-07T23:10:30.324Z",
+    "description": "Sofia Kim reported: \"Login page returns 500 error\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1177",
+    "subject": "Password reset email never arrives",
+    "requester": "Ethan Brooks",
+    "status": "closed",
+    "priority": "low",
+    "createdAt": "2026-04-22T08:49:57.562Z",
+    "description": "Ethan Brooks reported: \"Password reset email never arrives\". Steps to reproduce are attached in the linked doc. Priority: low."
+  },
+  {
+    "id": "TKT-1178",
+    "subject": "Data export stuck at 0%",
+    "requester": "Liam Novak",
+    "status": "resolved",
+    "priority": "urgent",
+    "createdAt": "2026-04-25T11:59:38.270Z",
+    "description": "Liam Novak reported: \"Data export stuck at 0%\". Started after last week's release. Priority: urgent."
+  },
+  {
+    "id": "TKT-1179",
+    "subject": "Webhook events arriving out of order",
+    "requester": "Chloe Dubois",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-09T21:14:14.469Z",
+    "description": "Chloe Dubois reported: \"Webhook events arriving out of order\". No workaround found yet. Priority: high."
+  },
+  {
+    "id": "TKT-1180",
+    "subject": "Typo in terms of service page",
+    "requester": "Noah Bergström",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-14T22:48:55.606Z",
+    "description": "Noah Bergström reported: \"Typo in terms of service page\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1181",
+    "subject": "Integration with Slack not syncing",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-06-06T04:25:06.710Z",
+    "description": "James O'Malley reported: \"Integration with Slack not syncing\". Steps to reproduce are attached in the linked doc. Priority: high."
+  },
+  {
+    "id": "TKT-1182",
+    "subject": "App crashes when uploading large files",
+    "requester": "Diego Alvarez",
+    "status": "closed",
+    "priority": "urgent",
+    "createdAt": "2026-06-02T01:30:14.584Z",
+    "description": "Diego Alvarez reported: \"App crashes when uploading large files\". Customer is on the enterprise plan and needs a fast turnaround. Priority: urgent."
+  },
+  {
+    "id": "TKT-1183",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Hana Suzuki",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-06-17T15:36:42.475Z",
+    "description": "Hana Suzuki reported: \"Mobile app freezes on startup\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1184",
+    "subject": "Password reset email never arrives",
+    "requester": "Hana Suzuki",
+    "status": "resolved",
+    "priority": "high",
+    "createdAt": "2026-05-01T09:00:17.064Z",
+    "description": "Hana Suzuki reported: \"Password reset email never arrives\". Started after last week's release. Priority: high."
+  },
+  {
+    "id": "TKT-1185",
+    "subject": "Billing charged twice this month",
+    "requester": "Fatima Rahman",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-04-07T14:00:45.926Z",
+    "description": "Fatima Rahman reported: \"Billing charged twice this month\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1186",
+    "subject": "Team member cannot be invited",
+    "requester": "Mei Tanaka",
+    "status": "open",
+    "priority": "urgent",
+    "createdAt": "2026-04-08T17:44:19.335Z",
+    "description": "Mei Tanaka reported: \"Team member cannot be invited\". Started after last week's release. Priority: urgent."
+  },
+  {
+    "id": "TKT-1187",
+    "subject": "App crashes when uploading large files",
+    "requester": "Sofia Kim",
+    "status": "pending",
+    "priority": "high",
+    "createdAt": "2026-05-27T22:34:16.338Z",
+    "description": "Sofia Kim reported: \"App crashes when uploading large files\". Second time this has been reported this month. Priority: high."
+  },
+  {
+    "id": "TKT-1188",
+    "subject": "Login page returns 500 error",
+    "requester": "Marcus Reed",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-21T05:42:59.157Z",
+    "description": "Marcus Reed reported: \"Login page returns 500 error\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1189",
+    "subject": "Cannot connect to API from mobile app",
+    "requester": "Ben Okafor",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-15T11:52:45.806Z",
+    "description": "Ben Okafor reported: \"Cannot connect to API from mobile app\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1190",
+    "subject": "Timezone displayed incorrectly in reports",
+    "requester": "Nadia Kowalski",
+    "status": "pending",
+    "priority": "medium",
+    "createdAt": "2026-06-02T23:56:49.226Z",
+    "description": "Nadia Kowalski reported: \"Timezone displayed incorrectly in reports\". Only reproducible on mobile Safari so far. Priority: medium."
+  },
+  {
+    "id": "TKT-1191",
+    "subject": "Billing charged twice this month",
+    "requester": "James O'Malley",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-05-20T16:32:12.876Z",
+    "description": "James O'Malley reported: \"Billing charged twice this month\". No workaround found yet. Priority: medium."
+  },
+  {
+    "id": "TKT-1192",
+    "subject": "Login page returns 500 error",
+    "requester": "Ryan Whitfield",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-05-05T07:22:40.179Z",
+    "description": "Ryan Whitfield reported: \"Login page returns 500 error\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1193",
+    "subject": "Typo in terms of service page",
+    "requester": "Diego Alvarez",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-06-11T23:56:54.745Z",
+    "description": "Diego Alvarez reported: \"Typo in terms of service page\". Happens consistently on the latest browser version. Priority: medium."
+  },
+  {
+    "id": "TKT-1194",
+    "subject": "Dashboard widget shows stale data",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "medium",
+    "createdAt": "2026-05-23T15:49:04.999Z",
+    "description": "Aisha Bello reported: \"Dashboard widget shows stale data\". Steps to reproduce are attached in the linked doc. Priority: medium."
+  },
+  {
+    "id": "TKT-1195",
+    "subject": "Mobile app freezes on startup",
+    "requester": "Aisha Bello",
+    "status": "open",
+    "priority": "low",
+    "createdAt": "2026-06-07T13:48:29.980Z",
+    "description": "Aisha Bello reported: \"Mobile app freezes on startup\". Happens consistently on the latest browser version. Priority: low."
+  },
+  {
+    "id": "TKT-1196",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "Elena Petrova",
+    "status": "closed",
+    "priority": "medium",
+    "createdAt": "2026-05-26T11:18:26.207Z",
+    "description": "Elena Petrova reported: \"Bulk import fails for CSV over 5MB\". Started after last week's release. Priority: medium."
+  },
+  {
+    "id": "TKT-1197",
+    "subject": "Bulk import fails for CSV over 5MB",
+    "requester": "James O'Malley",
+    "status": "open",
+    "priority": "high",
+    "createdAt": "2026-04-19T17:37:19.498Z",
+    "description": "James O'Malley reported: \"Bulk import fails for CSV over 5MB\". Only reproducible on mobile Safari so far. Priority: high."
+  },
+  {
+    "id": "TKT-1198",
+    "subject": "Broken link in welcome email",
+    "requester": "Oliver Schmidt",
+    "status": "resolved",
+    "priority": "medium",
+    "createdAt": "2026-06-10T03:26:13.402Z",
+    "description": "Oliver Schmidt reported: \"Broken link in welcome email\". Screenshot attached showing the error state. Priority: medium."
+  },
+  {
+    "id": "TKT-1199",
+    "subject": "Two-factor authentication not sending codes",
+    "requester": "James O'Malley",
+    "status": "pending",
+    "priority": "low",
+    "createdAt": "2026-05-19T08:19:29.025Z",
+    "description": "James O'Malley reported: \"Two-factor authentication not sending codes\". Customer is on the enterprise plan and needs a fast turnaround. Priority: low."
+  }
+]
