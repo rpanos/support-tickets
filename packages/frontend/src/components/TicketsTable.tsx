@@ -9,6 +9,7 @@ interface TicketsTableProps {
   sortBy: TicketQuery["sortBy"];
   sortDir: TicketQuery["sortDir"];
   onToggleSort: (column: SortableColumn) => void;
+  onRowClick: (ticket: Ticket) => void;
 }
 
 const STATUS_LABEL: Record<Ticket["status"], string> = {
@@ -57,7 +58,7 @@ function SortableHead({
   );
 }
 
-export function TicketsTable({ tickets, sortBy, sortDir, onToggleSort }: TicketsTableProps) {
+export function TicketsTable({ tickets, sortBy, sortDir, onToggleSort, onRowClick }: TicketsTableProps) {
   return (
     <Table>
       <TableHeader>
@@ -77,7 +78,7 @@ export function TicketsTable({ tickets, sortBy, sortDir, onToggleSort }: Tickets
       </TableHeader>
       <TableBody>
         {tickets.map((ticket) => (
-          <TableRow key={ticket.id}>
+          <TableRow key={ticket.id} className="cursor-pointer" onClick={() => onRowClick(ticket)}>
             <TableCell className="font-medium">{ticket.subject}</TableCell>
             <TableCell>{ticket.requester}</TableCell>
             <TableCell>{STATUS_LABEL[ticket.status]}</TableCell>

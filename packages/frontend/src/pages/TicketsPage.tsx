@@ -1,12 +1,13 @@
 import { useState } from "react";
 import { useQuery, keepPreviousData } from "@tanstack/react-query";
-import type { TicketQuery } from "@app/shared";
+import type { Ticket, TicketQuery } from "@app/shared";
 import { getTickets } from "@/api/tickets";
 import { useDebouncedValue } from "@/hooks/useDebouncedValue";
 import { TicketsTable } from "@/components/TicketsTable";
 import { TableSkeleton } from "@/components/TableSkeleton";
 import { TicketFilters } from "@/components/TicketFilters";
 import { TablePagination } from "@/components/TablePagination";
+import { TicketDetailSheet } from "@/components/TicketDetailSheet";
 
 const PAGE_SIZE = 20;
 
@@ -17,6 +18,7 @@ export function TicketsPage() {
   const [sortBy, setSortBy] = useState<TicketQuery["sortBy"]>("createdAt");
   const [sortDir, setSortDir] = useState<TicketQuery["sortDir"]>("desc");
   const [page, setPage] = useState(1);
+  const [selectedTicket, setSelectedTicket] = useState<Ticket | null>(null);
 
   const query: TicketQuery = {
     search: debouncedSearch || undefined,
@@ -69,11 +71,24 @@ export function TicketsPage() {
         {isLoading ? (
           <TableSkeleton rows={PAGE_SIZE} />
         ) : (
-          <TicketsTable tickets={data?.items ?? []} sortBy={sortBy} sortDir={sortDir} onToggleSort={toggleSort} />
+          <TicketsTable
+            tickets={data?.items ?? []}
+            sortBy={sortBy}
+            sortDir={sortDir}
+            onToggleSort={toggleSort}
+            onRowClick={setSelectedTicket}
+          />
         )}
       </div>
 
       <TablePagination page={page} pageSize={PAGE_SIZE} total={data?.total ?? 0} onPageChange={setPage} />
+
+      <TicketDetailSheet
+        ticket={selectedTicket}
+        onOpenChange={(open) => {
+          if (!open) setSelectedTicket(null);
+        }}
+      />
     </div>
   );
 }
