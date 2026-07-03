@@ -2,20 +2,7 @@ import type { Ticket } from "@app/shared";
 import { useMediaQuery } from "@/hooks/useMediaQuery";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetDescription } from "@/components/ui/sheet";
 import { Drawer, DrawerContent, DrawerHeader, DrawerTitle, DrawerDescription } from "@/components/ui/drawer";
-
-const STATUS_LABEL: Record<Ticket["status"], string> = {
-  open: "Open",
-  pending: "Pending",
-  resolved: "Resolved",
-  closed: "Closed",
-};
-
-const PRIORITY_LABEL: Record<Ticket["priority"], string> = {
-  low: "Low",
-  medium: "Medium",
-  high: "High",
-  urgent: "Urgent",
-};
+import { STATUS_LABEL, PRIORITY_LABEL } from "@/lib/ticket-labels";
 
 interface TicketDetailSheetProps {
   ticket: Ticket | null;

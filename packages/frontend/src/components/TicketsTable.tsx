@@ -1,6 +1,7 @@
 import type { Ticket, TicketQuery } from "@app/shared";
 import { ArrowDown, ArrowUp, ArrowUpDown } from "lucide-react";
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from "@/components/ui/table";
+import { STATUS_LABEL, PRIORITY_LABEL } from "@/lib/ticket-labels";
 
 type SortableColumn = "createdAt" | "priority";
 
@@ -11,20 +12,6 @@ interface TicketsTableProps {
   onToggleSort: (column: SortableColumn) => void;
   onRowClick: (ticket: Ticket) => void;
 }
-
-const STATUS_LABEL: Record<Ticket["status"], string> = {
-  open: "Open",
-  pending: "Pending",
-  resolved: "Resolved",
-  closed: "Closed",
-};
-
-const PRIORITY_LABEL: Record<Ticket["priority"], string> = {
-  low: "Low",
-  medium: "Medium",
-  high: "High",
-  urgent: "Urgent",
-};
 
 function SortIcon({ active, dir }: { active: boolean; dir: TicketQuery["sortDir"] }) {
   if (!active) return <ArrowUpDown className="size-3.5 text-muted-foreground" />;
